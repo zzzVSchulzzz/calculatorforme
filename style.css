@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: center;
+    font-size: x-large;
+}
+
+.card-body {
+    background-color: rgb(71, 64, 64);
+    border-radius: 10px;
+}
+
+.btn.btn-outline-danger.form-control{
+    background-color: rgb(244, 186, 186);
+}
+
+.btn.btn-outline-primary.form-control {
+    background-color: rgb(169, 216, 235);
+}
